@@ -24,6 +24,6 @@ Using datasets such as electric vehicle population counts by region or time, thi
 - `EV_Adoption_Forecasting.ipynb` — Main notebook containing data analysis, modeling, and results
 - `Electric_Vehicle_Population.csv` — (Assumed dataset file)
 - `app.py` — (Main streamlit file)
--`preprocessed_ev_data.csv` — (Cleaned dataset file)
+- `preprocessed_ev_data.csv` — (Cleaned dataset file)
 
 
